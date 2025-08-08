@@ -1,3 +1,5 @@
+# Link to three notebooks, presentation, and report here: https://drive.google.com/drive/folders/1T3CsPVH2A6vZF5F7wdscqvbCjphdfK_A?usp=sharing
+
 # Animal Image Classification Project
 
 ## Overview
